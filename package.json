@@ -1,0 +1,26 @@
+{
+  "name": "Morning-Exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "chai": "^4.0.0"
+  },
+  "devDependencies": {
+    "mocha": "^3.4.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FHappy/Morning-Exercises.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FHappy/Morning-Exercises/issues"
+  },
+  "homepage": "https://github.com/FHappy/Morning-Exercises#readme"
+}
