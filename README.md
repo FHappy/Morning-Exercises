@@ -3,7 +3,7 @@
 These are a collection of random logic puzzles I found online and wrote tests for so you can see whether or not you got the answer correct.
 Like everything else in coding, there are a million different ways to solve a problem and __no particularly correct answer__.
 Having said that, you should strive to write **DRY** and readable code.
-I've ranked these according to difficulty, none of these are particularly hard. 
+I've ranked these according to difficulty, none of these are extremely hard. 
 If you find this fun, I can make some hard problems as well. 
 ~~Have fun.~~
 ### ** ¯\\_(ツ)_/¯ **
@@ -24,7 +24,7 @@ To install mocha, run this from anywhere in your terminal:
 npm install -g mocha
 ```
 
-Now that you've installed mocha, you can run tests from the command line.
+Now that you've installed mocha globally, you can run tests from the command line.
 
 In the root folder of your cloned repo run (just in case this gets more complex down the line).
 
@@ -34,12 +34,13 @@ npm install
 #### Running Tests:
 
 You'll notice that each problem (exercise?) is in it's own folder. If we're doing 'sortaSum', cd into that folder.
-Each prompt and instructions will be in the js file with the name of the problem (don't go into the test folder).
+Each prompt and instructions will be in the js file with the name of the problem (don't go into the test folder, unless you __really__ want to).
+
 The prompt will include the general instructions, a few examples, and maybe a hint, **__who knows?__**
 It's important that you don't change the name of the function where you'll write your answer. It will mess with the tests if you do.
 The tests themselves are pretty general but should cover all the edge/use cases I could think of.
 
-To run a test for a particular problem, make sure you're in that problem's folder, then in terminal run:
+To run a test for a particular problem, **make sure you're in that problem's specific folder**, then in terminal run:
 
 ```bash
 mocha test
