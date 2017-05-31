@@ -1,5 +1,6 @@
 // Given 2 non-negative integers, a and b, 
-// return their sum, so long as the sum has the same number of digits as a. 
+// return their sum, so long as the sum has the same number of digits as a
+// (the first integer). 
 // If the sum has more digits than a, just return the first integer.
 
 // NOTE: there are a couple of ways to compute the number of digits
@@ -8,3 +9,11 @@
 // var num = 42;
 // numAsString = num.toString();
 // console.log(numAsString.length); -> should log ('2') to the console 
+
+// IMPORTANT: Do not change the function name
+
+function sumLimit(a, b) {
+// ENTER ANSWER BELOW
+}
+
+module.exports = sumLimit;
