@@ -1,8 +1,6 @@
 var expect = require('chai').expect;
 var sortaSum = require('./../sortaSum.js');
 
-console.log('test file run');
-
 describe('sortaSum', function() {
   describe('#actual sum less than 10', function() {
     it('should return 7 with arguments 3 and 4', function() {
