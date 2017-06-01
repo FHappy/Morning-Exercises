@@ -16,7 +16,7 @@ describe('sortaSum', function() {
     });
 
     it('should return 9000 with arguments 9000 and 1', function() {
-      expect(sumLimit(9000,1)).to.equal(9000);
+      expect(sumLimit(9000,1)).to.equal(9001);
     });
 
 
