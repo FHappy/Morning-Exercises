@@ -1,7 +1,7 @@
 # Morning-Exercises for Atl WDI-10
 
-These are a collection of random logic puzzles I found online and wrote tests for so you can see whether or not you got the answer correct.
-Like everything else in coding, there are a million different ways to solve a problem and __no particularly correct answer__.
+These are a collection of random logic problems I found online and wrote tests for so you can see whether or not you got the answer correct.
+Like everything else in coding, there are a million different ways to solve a problem and _no particularly correct answer_.
 Having said that, you should strive to write **DRY** and readable code.
 I've ranked these according to difficulty, none of these are extremely hard. 
 If you find this fun, I can make some hard problems as well. 
@@ -34,9 +34,9 @@ npm install
 #### Running Tests:
 
 You'll notice that each problem (exercise?) is in it's own folder. If we're doing 'sortaSum', cd into that folder.
-Each prompt and instructions will be in the js file with the name of the problem (don't go into the test folder, unless you __really__ want to).
+Each prompt and instructions will be in the js file with the name of the problem (don't go into the test folder, unless you _really_ want to).
 
-The prompt will include the general instructions, a few examples, and maybe a hint, **__who knows?__**
+The prompt will include the general instructions, a few examples, and maybe a hint, **_who knows?_**
 It's important that you don't change the name of the function where you'll write your answer. It will mess with the tests if you do.
 The tests themselves are pretty general but should cover all the edge/use cases I could think of.
 
