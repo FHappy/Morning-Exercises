@@ -3,8 +3,7 @@
 These are a collection of random logic problems I found online and wrote tests for so you can see whether or not you got the answer correct.
 Like everything else in coding, there are a million different ways to solve a problem and _no particularly correct answer_.
 Having said that, you should strive to write **DRY** and readable code.
-I've ranked these according to difficulty, none of these are extremely hard. 
-If you find this fun, I can make some hard problems as well. 
+I've ranked these according to difficulty, nothing crazy. 
 ~~Have fun.~~
 ### ** ¯\\_(ツ)_/¯ **
 
@@ -14,8 +13,7 @@ Clone this repo into whatever folder you like (preferably outside of your atl-wd
 
 ### Mocha
 
-Mocha and chai are test suites that I used so that you might check your answers (calm down, we'll get to that in a second).
-
+Mocha and chai are test suites that I used so that you might check your answers.
 #### Installation:
 
 To install mocha, run this from anywhere in your terminal:
