@@ -3,6 +3,7 @@
 // To make this uber dry, you could make a function inside our roundedSum function
 // that takes an integer argument and returns the rounded value.
 // Why does this help dry up the code?
+// Also don't be a dick and use Math.round().
 
 // EXAMPLES
 // roundedSum(16, 17, 18) → 60
