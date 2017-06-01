@@ -9,3 +9,5 @@
 function sumNumbersInString(str) {
   // ENTER ANSWER BELOW
 }
+
+module.exports = sumNumbersInString;
