@@ -9,3 +9,5 @@
 function countClusters(arr) {
   // ENTER ANSWER BELOW
 }
+
+module.exports = countClusters;
