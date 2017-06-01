@@ -7,5 +7,5 @@
 // sumNumbersInString("7ab cd11") → 18
 
 function sumNumbersInString(str) {
-  
+  // ENTER ANSWER BELOW
 }
